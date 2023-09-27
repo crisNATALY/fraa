@@ -9,6 +9,7 @@ h2{
     text-shadow: 1px 2px 2px black, 0 0 10px rgb(215, 70, 223);
     text-align: center;
     font-size: 45px;
+    font-style: italic
 }
 h3{
     text-align: center;
